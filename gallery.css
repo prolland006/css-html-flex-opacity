@@ -1,0 +1,22 @@
+body {
+    background-color:#888;
+}
+
+.banniere {
+    height: 375px;
+    background: url('./img/banniere.jpg') no-repeat;
+    min-width: 100%;
+}
+
+.menu {
+	display: flex;
+	opacity:0.75;
+	background-color: bisque;
+}
+
+.menu-item {
+	margin-left: 10px;
+    margin-right: 10px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
